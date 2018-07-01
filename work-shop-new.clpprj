@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="E:\OSPanel\domains\work-shop-new\work-shop-new.clpprj">
+	<settings><PM_URL><![CDATA[E:\OSPanel\domains\work-shop-new]]></PM_URL><PM_HOME_URL><![CDATA[E:\OSPanel\domains\work-shop-new]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";E:\OSPanel\domains\work-shop-new\app\Http\Controllers\.php;"/><added value=""/><lastopfiles>
+		<file name="E:\OSPanel\domains\work-shop-new\app\Http\routes.php"/>
+		<file name="E:\OSPanel\domains\work-shop-new\resources\views\admin-html\main.blade.php"/>
+		<file name="E:\OSPanel\domains\work-shop-new\resources\views\templates\adminIndex.blade.php"/>
+		<file name="E:\OSPanel\domains\work-shop-new\app\Http\Controllers\Admin\ProductsAdminController.php"/>
+		<file name="E:\OSPanel\domains\work-shop-new\app\Http\Controllers\Admin\MainAdminController.php"/>
+		<file name="E:\OSPanel\domains\work-shop-new\app\AdminProductModel.php"/>
+		<file name="E:\OSPanel\domains\work-shop-new\resources\views\admin-html\products.blade.php"/>
+	</lastopfiles>
+</project>

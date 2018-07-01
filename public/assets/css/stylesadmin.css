@@ -1,0 +1,185 @@
+/* https://color.adobe.com/ru/Mój-motyw-Color-color-theme-10861365/edit/?copy=true */
+
+
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+body {
+  min-height: 100%;
+  background: #DCDCDD;
+}
+
+body header {
+  height: 100px;
+  background: #46494C;
+}
+
+
+
+body header .top_block {
+  height: 50px;
+}
+body header .top_block .collapse .nav .dropdown .my_style_nameAdmin {
+  color: #DCDCDD;
+  margin: 0 10px;
+  display: inline-block;
+  line-height: 50px;
+}
+body header .top_block .collapse .nav .dropdown .dropdown-menu li .my_style_logout {
+  color: #DCDCDD;
+  margin: 0 10px;
+  display: inline-block;
+  line-height: 50px;
+}
+body header .top_block .collapse .nav .dropdown .dropdown-menu {
+  float: left;
+}
+
+
+
+
+
+
+
+body header .menu_admin {
+  height: 50px;
+}
+/*
+body header .menu_admin .parent_list {
+  height: 100%;
+}
+body header .menu_admin .parent_list li{
+  height: 100%;
+  width: 120px;
+  float: left;
+  text-align: center;
+}
+body header .menu_admin .parent_list li a{
+  height: 100%;
+  width: 120px;
+  line-height: 50px;
+  display: inline-block;
+  background: #46494C;
+  color: #DCDCDD;
+}
+body header .menu_admin .parent_list li a:hover{
+  background: #4C5C68;
+  color: #1985A1;
+}
+body header .menu_admin .parent_list .parent_link .child_list{
+  margin-left: -100px;
+  height: auto;
+  position: relative;
+  float: left;
+  width: 120px;
+}
+body header .menu_admin .parent_list .parent_link{
+  height: auto;
+}
+body header .menu_admin .parent_list .parent_link:hover .child_list{
+  margin-left: 0px;
+}
+*/
+
+
+
+
+
+body header .menu_admin .wrap ul li {
+  float: left;
+  font-family: "Roboto", sans-serif;
+  line-height: 50px;
+  overflow: visible;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+}
+body header .menu_admin .wrap ul li:hover .wrap_child {
+  left: 0px;
+}
+body header .menu_admin .wrap ul li a {
+  display: block;
+  text-decoration: none;
+  color: #DCDCDD;
+  margin: 0px;
+  padding: 0 15px;
+  line-height: 50px;
+  transition: 0.4s;
+  transition-property: color;
+}
+body header .menu_admin .wrap ul li a:hover {
+  color: #1a1d25;
+}
+body header .menu_admin .wrap ul li .active {
+  color: #1a1d25;
+}
+body header .menu_admin .wrap ul li .wrap_child {
+  position: relative;
+  float: left;
+  top: 0px;
+  background: #1a1d25;
+  z-index: 50;
+  left: -10000px;
+  opacity: 0.8;
+  box-sizing: border-box;
+  padding: 10px 0px;
+}
+body header .menu_admin .wrap ul li .wrap_child ul {
+  position: relative;
+  width: 300px;
+}
+body header .menu_admin .wrap ul li .wrap_child ul li {
+  float: top;
+  width: 100%;
+  margin: 0px;
+  height: auto;
+  text-align: left;
+}
+body header .menu_admin .wrap ul li .wrap_child ul li a {
+  width: auto;
+  margin: 0px 5px;
+  line-height: 30px;
+  padding: 0 15px;
+  transition: 0.4s;
+  transition-property: background-color;
+}
+body header .menu_admin .wrap ul li .wrap_child ul li a:hover {
+  background-color: #DCDCDD;
+}
+
+
+
+
+
+
+
+
+
+
+body footer {
+  height: 100px;
+  background: #46494C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
